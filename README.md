@@ -23,7 +23,6 @@
 * **网页端 Demo**：[https://demo.divesee.com:9080](https://demo.divesee.com:9080)
 * **AI 服务端点**：
   * 滴水湖 ECS：`https://api.divesee.com:9443`
-* **文档介绍**：[https://capricious-hair-7f0.notion.site/Divesee-v0-4-2-28d4e0c9654780f7ae10d75b8d82a442](https://capricious-hair-7f0.notion.site/Divesee-v0-4-2-28d4e0c9654780f7ae10d75b8d82a442)
 * **推荐测试站点**（蒙特卡洛模拟）：[https://wangzhefeng.com/post/2023/07/30/montecarlo/](https://wangzhefeng.com/post/2023/07/30/montecarlo/)
 
 ---
