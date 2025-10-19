@@ -18,14 +18,11 @@
 * **插件下载**（网盘离线包）：**Divesee-v0.4.2**
   链接：[https://pan.baidu.com/s/1GhyS5tmCBNbVlKRUzlu3dw?pwd=nb5w](https://pan.baidu.com/s/1GhyS5tmCBNbVlKRUzlu3dw?pwd=nb5w)
   提取码：`nb5w`
-* **GitHub 更新**：[https://github.com/divesee/Divesee-v0.4.2/](https://github.com/divesee/Divesee-v0.4.2/)
+* **GitHub 更新**：[https://github.com/divesee/Divesee-v0.4.2/](https://github.com/divesee/Divesee-v0.5/)
 * **双 Demo 演示视频**：[https://cloud.189.cn/web/share?code=uUrqmmNziyum](https://cloud.189.cn/web/share?code=uUrqmmNziyum)（访问码：`kf0f`）
 * **网页端 Demo**：[https://demo.divesee.com:9080](https://demo.divesee.com:9080)
 * **AI 服务端点**：
-
   * 滴水湖 ECS：`https://api.divesee.com:9443`
-  * 默认：`http://106.14.198.129:9443`
-    （可在设置中自定义修改）
 * **文档介绍**：[https://capricious-hair-7f0.notion.site/Divesee-v0-4-2-28d4e0c9654780f7ae10d75b8d82a442](https://capricious-hair-7f0.notion.site/Divesee-v0-4-2-28d4e0c9654780f7ae10d75b8d82a442)
 * **推荐测试站点**（蒙特卡洛模拟）：[https://wangzhefeng.com/post/2023/07/30/montecarlo/](https://wangzhefeng.com/post/2023/07/30/montecarlo/)
 
@@ -76,7 +73,8 @@
 
 ## 隐私与安全
 
-* 文本处理默认在本地执行；除非你主动上报问题，否则不会上传你的阅读内容。
+* 本地算法：文本处理默认在本地执行；除非你主动上报问题，否则不会上传你的阅读内容。
+* AI算法：数据将脱敏经过api服务器，我们不会主动储存文件
 * 详细说明见 `PRIVACY.md`（占位）。
 
 ---
@@ -84,7 +82,7 @@
 ## 许可证
 
 商业闭源（专有许可）。使用受最终用户许可协议（EULA）约束。
-商务合作与授权请联系：`contact@divesee.com`（占位）。
+商务合作与授权请联系：`team@divesee.com`（占位）。
 
 ---
 
